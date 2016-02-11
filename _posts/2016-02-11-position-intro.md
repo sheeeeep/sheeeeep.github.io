@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "position"
+title:  "【css】position属性简介"
 categories: css
 ---
 position有五个属性：
