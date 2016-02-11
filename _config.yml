@@ -1,6 +1,7 @@
-permalink: /:year/:month/:day/:title.html   #博文的固定链接
-paginate: 10                                #分页时每页博文数量
-author:                                     #自定义常亮
-  name: sheeeeep
-  email: 281591919@qq.com
-markdown: redcarpet                         #markdown解释器
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+auto: true # automatically update your jekyll
+server: true # runs a local server
+paginate: 10 # pagination basted on number of posts
+exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss'] # files to exclude
+
