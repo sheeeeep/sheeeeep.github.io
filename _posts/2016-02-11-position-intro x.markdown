@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[css]position属性简介"
+title:  "position属性简介"
 date:   2016-02-11 11:23:32
 categories: css
 ---
