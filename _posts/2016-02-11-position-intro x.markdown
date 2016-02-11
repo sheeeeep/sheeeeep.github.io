@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "css:position"
+title:  "position"
 date:   2015-02-11 11:23:32
 categories: css
 ---
-## position
-
 position有五个属性：
 
  - static
