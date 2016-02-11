@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "position"
-date:   2016-02-11 11:23:32
+date:   2018-02-11 11:23:32
 categories: css
 ---
 position有五个属性：
