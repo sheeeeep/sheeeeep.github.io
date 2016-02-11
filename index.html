@@ -1,7 +1,22 @@
 ---
-layout: page
+layout: default
 ---
-<div class="index-wrapper">
-  <a class="link-1" href="{{ site.posts[0].url }}">post</a> /
-  <a class="link-1" href="/about/">about</a> /
+
+<div class="home">
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <br>
+        <h3>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h3>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y %H:%m" }}</span>
+        <hr id="line">
+		<div class="content">
+		{{ post.excerpt }}
+        </div>
+		<br>
+      </li>
+    {% endfor %}
+  </ul>
 </div>
