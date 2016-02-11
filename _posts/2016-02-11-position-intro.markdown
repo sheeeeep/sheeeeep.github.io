@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "position简介"
+title:  "position"
 date:   2016-02-11 11:23:32
 categories: css
 ---
