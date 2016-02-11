@@ -5,6 +5,7 @@ categories: Tutorial
 ---
 
 #### 1. 安装xshell,登陆
+
 #### 2. 安装jdk  
 
 1. 下载jdk:http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
