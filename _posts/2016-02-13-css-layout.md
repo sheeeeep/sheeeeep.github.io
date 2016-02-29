@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "css布局简单总结"
+title:  "【css】css布局简单总结"
 categories: css
 ---
 
@@ -29,7 +29,7 @@ categories: css
 
 ### 盒模型
 
-盒模型包括：content , padding , border, margni
+盒模型包括：content , padding , border, margin
 
 在计算盒子的尺寸时：
 
@@ -43,6 +43,16 @@ categories: css
     - box-sizing : border-box , width = content + padding + border
     - box-sizing : padding-box , width = content + padding
     - box-sizing : content-box , width = content
+    
+ 盒子3D模型，从上到下依次为：
+ border, content+padding, bgi, bgc, margin
+
+### css的定位机制
+
+- 标准文档流
+- 浮动
+- 绝对定位
+
     
 ## position 布局
 
