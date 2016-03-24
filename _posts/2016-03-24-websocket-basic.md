@@ -85,6 +85,7 @@ HTTP1.1中有了keep-alive：在一个HTTP连接中，可以发送多个Request�
  ```
  if ("WebSocket" in window){}
  ```
+ 
 - 获取websocket接口
 
  ```
