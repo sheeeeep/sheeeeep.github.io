@@ -113,5 +113,3 @@ HTTP1.1中有了keep-alive：在一个HTTP连接中，可以发送多个Request�
  ```
   ws.onclose = function() { };
  ```
-
-# 3 怎么样
