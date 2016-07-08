@@ -80,7 +80,7 @@ Sec-WebSocket-Protocol: chat
 
 客户端对服务端握手进行检查，如果```Sec-WebSocket-Accept```不是期望值、头字段缺失、 HTTP 状态码不是 101，则连接将不能建立。
 
-###挥手
+### 挥手
 
 服务端和客户端都能发送一个控制帧来进行挥手。
 

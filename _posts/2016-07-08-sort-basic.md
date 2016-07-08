@@ -78,7 +78,8 @@ for(let i=1; i<arr.length; i++) {
 2. 减少步长，重复
 3. 直到步长为1
 
-###代码
+### 代码
+
 ```
 for(let i=1; i<arr.length; i++){
 	for(let j=i; j>=h; j-=h) {
