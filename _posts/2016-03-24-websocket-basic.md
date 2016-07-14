@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "WebSocket简介"
-categories: 网络
+categories: Network
 ---
 # 目录
 

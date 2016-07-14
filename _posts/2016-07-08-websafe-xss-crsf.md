@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "XSS和CSRF解读"
-categories: 网络
+categories: Network
 ---
 ## XSS跨站脚本(Cross-site scripting)
 

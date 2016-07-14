@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "WebSocket详解"
-categories: 网络
+categories: Network
 ---
 
 > 本文根据RFC6455总结而成

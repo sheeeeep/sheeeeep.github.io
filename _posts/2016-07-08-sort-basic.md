@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "基本排序算法"
-categories: 算法
+categories: Algorithm
 ---
 
 ## 选择排序
